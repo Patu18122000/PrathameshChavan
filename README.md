@@ -1,7 +1,6 @@
 <img alt="Coding" width="1200px" height="300px" src="https://tse3.mm.bing.net/th?id=OIP.8lYmtyFVLAsQ0VbWZRKnRwHaEK&pid=Api&P=0"/>
 <h1 align="center">Hi 👋, I'm Prathamesh Chavan</h1>
 <h3 align="center">A passionate JAVA Back-End Developer, Dedicated to developing robust applications that interact with the Backend part of web applications.Problem-solving mindset with a goal to optimize my application for better stability and speed. Love to work in a team.</h3>
-<img alt="Coding" width="1200px" height="300px" src="https://tse3.mm.bing.net/th?id=OIP.8lYmtyFVLAsQ0VbWZRKnRwHaEK&pid=Api&P=0"/>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=patu18122000" alt="patu18122000" /></a> </p>
 
