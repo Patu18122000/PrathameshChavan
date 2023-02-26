@@ -2,19 +2,24 @@
 <h1 align="center">Hi 👋, I'm Prathamesh Chavan</h1>
 <h3 align="center">A passionate JAVA Back-End Developer, Dedicated to developing robust applications that interact with the Backend part of web applications.Problem-solving mindset with a goal to optimize my application for better stability and speed. Love to work in a team.</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=patu18122000&label=Profile%20views&color=0e75b6&style=flat" alt="patu18122000" /> </p>
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=patu18122000" alt="patu18122000" /></a> </p>
 
 - 🔭 I’m currently working on **Java Back-end Developement**
 
 - 🌱 I’m currently learning **Advanced Java**
 
-- 👨‍💻 All of my projects are available at [https://patu18122000.github.io/](https://patu18122000.github.io/)
+- 👨‍💻 All of my projects are available at <a href="https://patu18122000.github.io/">Portfolio<a/>
+
+- 📝 Connect with me on <a href="https://www.linkedin.com/in/prathamesh-chavan-48871b167/">Linkdin<a/>
 
 - 📫 How to reach me **patu.chavan2000@gmail.com**
 
+- 📄 Have a look at my resume <a href="https://drive.google.com/drive/u/0/my-drive">Resume<a/>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/prathamesh-chavan-48871b167" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prathamesh-chavan-48871b167" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
